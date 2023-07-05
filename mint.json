@@ -13,8 +13,8 @@
   },
   "topbarLinks": [
     {
-      "name": "Documentation",
-      "url": "https://mintlify.com/docs"
+      "name": "SERP",
+      "url": "https://serp.co/"
     }
   ],
   "topbarCtaButton": {
@@ -51,9 +51,9 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/intent/follow/screen_name=dvnschmchr",
+    "github": "https://github.com/serp-ai",
+    "linkedin": "https://www.linkedin.com/companyserpcompany"
   },
   "backgroundImage": "/background.png"
 }
